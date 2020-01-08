@@ -1,2 +1,2 @@
-*.cmake linguist-vendored=false
+*.cmake linguist-detectable=false
 
